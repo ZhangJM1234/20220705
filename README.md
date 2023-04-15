@@ -50,4 +50,15 @@
 刘备|装死|90
 
 # 超链接
-[github官网](http://github.com "点击进入github")
+[github官网](http://github.com "点击进入github"
+
+# 插入
+
+```c
+	#include <stdio.h>
+	int main()
+	{
+		printf("this is a test.\n");
+		return 0;
+	}
+```
