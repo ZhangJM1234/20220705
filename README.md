@@ -50,7 +50,10 @@
 刘备|装死|90
 
 # 超链接
-[github官网](http://github.com "点击进入github"
+[github官网](http://github.com "点击进入github")
+
+# 插入图片
+[图片名](D://20050705C++//赛车游戏//res//玩家赛车.png “悬停关键字”)
 
 # 插入
 
@@ -61,4 +64,17 @@
 		printf("this is a test.\n");
 		return 0;
 	}
+```
+
+```bash
+	sudo apt-get install libssl-dev
+	echo 数据回显
+```
+
+```cpp
+	/*插入c++代码*/
+```
+
+```python
+	#插入python代码
 ```
